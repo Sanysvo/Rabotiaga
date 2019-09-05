@@ -18,8 +18,6 @@ public class ChoosePlayerGameScreen extends GameScreen {
 
 
 
-
-
         }catch (Exception e){
 
         }
